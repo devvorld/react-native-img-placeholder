@@ -1,0 +1,30 @@
+{
+  "name": "react-native-img-placeholder",
+  "version": "1.0.0",
+  "description": "react native image placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devvorld/react-native-img-placeholder.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "keywords": [
+    "img place holder rn",
+    "image react native placeholder",
+    "react native image placeholder",
+    "ios image placeholder",
+    "android image placeholder",
+    "image placeholder network"
+  ],
+  "author": "devvorld technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devvorld/react-native-img-placeholder/issues"
+  },
+  "homepage": "https://github.com/devvorld/react-native-img-placeholder#readme"
+}
